@@ -434,8 +434,7 @@ body {
   display: inline-block;
   margin: 0 auto;
   margin-top: 10px;
-  margin-left: 15px;
-  cursor: pointer; }
+  margin-left: 15px;}
 
 .polyglotImage:last-child {
   margin-top: 35px; }
