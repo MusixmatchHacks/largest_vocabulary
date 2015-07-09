@@ -12,10 +12,16 @@
 #vocabTitle {
   position : absolute;
   top : 25px;
-  left : 25px;
+  left : 78px;
   font-style: italic;
   color : rgba(0, 0, 0, 0.6);
   font-size : 1em;
+}
+
+#mxm_compact_vocab {
+  position : absolute;
+  top : 25px;
+  left : 25px;
 }
 
 #vocab_plot {
