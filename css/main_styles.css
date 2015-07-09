@@ -9,6 +9,15 @@
   height: 100vh;
   background-color: #D6C06D; }
 
+#vocabTitle {
+  position : absolute;
+  top : 25px;
+  left : 25px;
+  font-style: italic;
+  color : rgba(0, 0, 0, 0.6);
+  font-size : 1em;
+}
+
 #vocab_plot {
   position: relative;
   max-width: 1440px;
@@ -304,7 +313,7 @@ body {
 #header {
   position: relative;
   width: 100%;
-  height: 220px;
+  height: 300px;
   background-image: url(../img/header_bg.png);
   background-size: cover; }
   #header .header_inner {
@@ -329,7 +338,7 @@ body {
       z-index: 10; }
     #header .header_inner #main_logo {
       position: relative;
-      margin-top: 70px;
+      margin-top: 140px;
       z-index: 10; }
 
 #headerBgOverlay {
